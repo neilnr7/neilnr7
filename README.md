@@ -45,7 +45,7 @@ I’m Neil Rego, a final-year Computer Science (Artificial Intelligence) student
 
 ---
 
-### ❤️ [Stress Classification](https://github.com/neilnr7/Stress-Classification)
+### ❤️ [Stress Classification](https://github.com/neilnr7/stress-classification-e4-vs-h10)
 > Machine learning pipeline for stress classification using wearable biosensor data and HRV feature engineering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ I’m Neil Rego, a final-year Computer Science (Artificial Intelligence) student
 
 ---
 
-### 🧠 [ADHD Prediction](https://github.com/neilnr7/ADHD-Prediction)
+### 🧠 [ADHD Prediction](https://github.com/neilnr7/wids-2025-adhd-sex-prediction)
 > Ensemble machine learning models for ADHD diagnosis and biological sex prediction using functional connectome data.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
