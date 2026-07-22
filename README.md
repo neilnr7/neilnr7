@@ -2,10 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,50:7C3AED,100:06B6D4&text=Hi%20👋%20I'm%20Neil%20Rego&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Computer+Science+(AI)+Student+%7C+Backend+Developer+%7C+Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Full-Stack+Developer+%7C+Machine+Learning+Enthusiast" />
 
 </div>
-
 
 I’m Neil Rego, a final-year Computer Science (Artificial Intelligence) student at KLE Technological University. I enjoy building scalable backend systems, full-stack web applications, and applying machine learning to solve real-world problems. I primarily work with Java, Spring Boot, React, PostgreSQL, and Python, and I'm always looking to improve my software engineering and problem-solving skills.<br><br>💻 Backend & Core Languages: Java, Spring Boot, Python, JavaScript<br><br>🌐 Frontend: React, HTML, CSS<br><br>🗄️ Databases: PostgreSQL<br><br>🤖 Machine Learning: Scikit-learn, Pandas<br><br>🛠️ Tools: Git, GitHub, Postman, Overleaf<br><br>🚀 Currently: Building full-stack applications, practicing DSA, and preparing for Software Engineer roles.
 
