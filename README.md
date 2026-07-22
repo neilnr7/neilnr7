@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,50:7C3AED,100:06B6D4&text=Hi%20👋%20I'm%20Neil%20Rego&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Computer+Science+(AI)+Student+%7C+Backend+Developer+%7C+Machine+Learning+Enthusiast" />
 
 </div>
 
